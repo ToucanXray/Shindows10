@@ -1,3 +1,4 @@
+//я бы
 PImage wallpaper1;
 PImage wallpaper2;
 PImage wallpaper3;
